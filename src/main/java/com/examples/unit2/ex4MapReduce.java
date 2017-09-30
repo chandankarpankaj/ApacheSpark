@@ -18,9 +18,9 @@ import static java.lang.System.getProperties;
 /**
  * Created by Pankaj.Chandankar on 07/02/2017.
  */
-public class ex3MapReduce {
+public class ex4MapReduce {
 
-    static String inputFile = "E:\\apache-spark\\workspace\\ApacheSpark\\resources\\unit2\\word_count_test.txt";
+    private static String inputFile = "resources\\unit2\\word_count_test.txt";
 
     public static void main(String args[]) {
 

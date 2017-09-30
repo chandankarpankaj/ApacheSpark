@@ -16,7 +16,7 @@ import static java.lang.System.getProperties;
  */
 public class ex3FlatMapFunction {
 
-    static String inputFile = "E:\\apache-spark\\workspace\\ApacheSpark\\resources\\unit2\\word_count_test.txt";
+    private static String inputFile = "resources\\unit2\\word_count_test.txt";
 
     public static void main(String args[]) {
 
